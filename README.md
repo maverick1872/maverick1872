@@ -1,8 +1,9 @@
-### Hey there 👋
+### Hey there, my name's Jonathon! 
 
-- 🔭 I’m currently working on an E-Book library manager called Erudite.
-- 👯 I’m a maintainer for the popular @winstonjs/winston logger package
-- 💬 Ask me about Javascript development, rock climbing, home automation, cars, etc
-- ⚡ Current Goal: Climbing the Sharkstooth Peak in RMNP
+* 💼 Software Engineer at [Clearco](https://clear.co/)
+* 🔭 Current personal project is building a 'r/self-hosted' friendly E-Book library manager called Erudite
+* 👯 Volunteering as a maintainer for the popular [@winstonjs/winston](https://github.com/winstonjs/winston) logger package
+* 💬 Ask me about anything development, rock climbing, home automation, cars, fabrication, or woodworking related
+* ⚡ Current Goal Climbing the Sharkstooth Peak in RMNP
 
 ![Jonathon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick1872&hide=stars&count_private=true&show_icons=true&theme=github_dark)
